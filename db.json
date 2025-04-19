@@ -1,0 +1,20 @@
+{
+    "testimonials": [
+      {
+        "id": 1,
+        "author": "Jane Doe",
+        "text": "This is the best car service I’ve ever used!"
+      },
+      {
+        "id": 2,
+        "author": "John Smith",
+        "text": "Very professional and on time. Highly recommended!"
+      },
+      {
+        "id": 3,
+        "author": "Emily Johnson",
+        "text": "Comfortable ride and polite drivers. Will book again!"
+      }
+    ]
+  }
+  
